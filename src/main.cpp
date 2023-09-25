@@ -130,7 +130,7 @@ INITIALIZE_PLUGIN() {
             write_string(patch.address, patch.url);
         }
         DEBUG_FUNCTION_LINE("Pretendo URL and NoSSL patches applied successfully.");
-        StartNotificationThread("Using Pretendo Network");
+        StartNotificationThread("Using NoNameVerse");
     }
     else {
         DEBUG_FUNCTION_LINE("Pretendo URL and NoSSL patches skipped.");
