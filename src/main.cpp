@@ -47,13 +47,13 @@
     Mandatory plugin information.
     If not set correctly, the loader will refuse to use the plugin.
 **/
-WUPS_PLUGIN_NAME("Inkay");
-WUPS_PLUGIN_DESCRIPTION("Pretendo Network Patcher");
-WUPS_PLUGIN_VERSION("v2.3");
-WUPS_PLUGIN_AUTHOR("Pretendo contributors");
+WUPS_PLUGIN_NAME("NoNameVerse-Inkay");
+WUPS_PLUGIN_DESCRIPTION("NoNameVerse Patcher");
+WUPS_PLUGIN_VERSION("v1.1");
+WUPS_PLUGIN_AUTHOR("Pretendo contributors (modded by noname)");
 WUPS_PLUGIN_LICENSE("ISC");
 
-WUPS_USE_STORAGE("inkay");
+WUPS_USE_STORAGE("nonameverse_inkay");
 WUPS_USE_WUT_DEVOPTAB();
 
 #include <kernel/kernel.h>
