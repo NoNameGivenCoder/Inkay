@@ -50,7 +50,7 @@
 WUPS_PLUGIN_NAME("NoNameVerse-Inkay");
 WUPS_PLUGIN_DESCRIPTION("NoNameVerse Patcher");
 WUPS_PLUGIN_VERSION("v1.1");
-WUPS_PLUGIN_AUTHOR("Pretendo contributors (modded by noname)");
+WUPS_PLUGIN_AUTHOR("Pretendo contributors (modded by nonamegiven)");
 WUPS_PLUGIN_LICENSE("ISC");
 
 WUPS_USE_STORAGE("nonameverse_inkay");
