@@ -33,7 +33,7 @@ static const URL_Patch url_patches[] = {
         {0xE22B3F70, "https://ias.c.shop.nintendo.net/ias/services/IdentityAuthenticationSOAP"},
         {0xE22B3FBC, "https://cas.c.shop.nintendo.net/cas/services/CatalogingSOAP"},
         {0xE22B3FFC, "https://nus.c.shop.nintendo.net/nus/services/NetUpdateSOAP"},
-        {0xE229DE0C, "n.app.nintendo.net"},
+        {0xE229DE0C, "n.nonamegiven.xyz"},
         //nim-boss .bss
         {0xE31930D4, "https://%s%saccount.nintendo.net/v%u/api/"}
 
