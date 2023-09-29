@@ -22,8 +22,8 @@ static const URL_Patch url_patches[] = {
         {0xE229A600, "https://pls.wup.shop.nintendo.net/pls/upload"},
         {0xE229A6AC, "https://npvk-dev.app.nintendo.net/reports"},
         {0xE229A6D8, "https://npvk.app.nintendo.net/reports"},
-        {0xE229B1F4, "https://npts.nonamegiven.xyz/p01/tasksheet/%s/%s/%s/%s?c=%s&l=%s"},
-        {0xE229B238, "https://npts.nonamegiven.xyz/p01/tasksheet/%s/%s/%s?c=%s&l=%s"},
+        {0xE229B1F4, "https://npts.app.nintendo.net/p01/tasksheet/%s/%s/%s/%s?c=%s&l=%s"},
+        {0xE229B238, "https://npts.app.nintendo.net/p01/tasksheet/%s/%s/%s?c=%s&l=%s"},
         {0xE22AB2D8, "https://idbe-wup.cdn.nintendo.net/icondata/%02X/%016llX.idbe"},
         {0xE22AB318, "https://idbe-ctr.cdn.nintendo.net/icondata/%02X/%016llX.idbe"},
         {0xE22AB358, "https://idbe-wup.cdn.nintendo.net/icondata/%02X/%016llX-%d.idbe"},
@@ -33,7 +33,7 @@ static const URL_Patch url_patches[] = {
         {0xE22B3F70, "https://ias.c.shop.nintendo.net/ias/services/IdentityAuthenticationSOAP"},
         {0xE22B3FBC, "https://cas.c.shop.nintendo.net/cas/services/CatalogingSOAP"},
         {0xE22B3FFC, "https://nus.c.shop.nintendo.net/nus/services/NetUpdateSOAP"},
-        {0xE229DE0C, "n.nonamegiven.xyz"},
+        {0xE229DE0C, "n.app.nintendo.net"},
         //nim-boss .bss
         {0xE31930D4, "https://%s%saccount.nintendo.net/v%u/api/"}
 
